@@ -1,5 +1,4 @@
-#-----compute/main.tf
-
+#-----compute/main.tf for testing
 data "aws_ami" "server_ami" {
   most_recent = true
 
